@@ -1,0 +1,8 @@
+print ("-"*20)
+print("tugas 1 sisop kelas a")
+print("-"*20)
+print("nama:calvien danny nariyana")
+print("npm:21083010040")
+print("-"*20)
+print("halo dunia")
+print("ini adalah skrip bash pertamaku di linux")
